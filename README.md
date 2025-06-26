@@ -1,2 +1,3 @@
 # scroll-hightlight-on-nav
-when scrolls  links will highlight on the navbar
+When scroll  links will highlight on the navbar
+https://mdkawsardev.github.io/scroll-hightlight-on-nav/
